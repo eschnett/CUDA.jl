@@ -77,8 +77,8 @@ version = "0.1.6"
 
 [[GPUArrays]]
 deps = ["Adapt", "LinearAlgebra", "Printf", "Random", "Serialization", "Statistics"]
-git-tree-sha1 = "24345bcf41921d460acbc52fe1e8598e8ef10e60"
-repo-rev = "e73f062bfe877c182a9582ace5accb63e3660f76"
+git-tree-sha1 = "59aa54826b2667e2a9161f6dbd9e37255fdb541b"
+repo-rev = "e1a4b3d"
 repo-url = "https://github.com/JuliaGPU/GPUArrays.jl.git"
 uuid = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
 version = "8.0.2"
